@@ -20,7 +20,7 @@ The Java Shell tool (JShell) is an interactive tool for learning the Java progra
     $ jshell -v
 ```
 5. Watch the [video]()
-</br>
+
 Oracle JDK 11 [JShell Documentation](https://docs.oracle.com/en/java/javase/11/jshell/introduction-jshell.html)
 
 
